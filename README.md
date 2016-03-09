@@ -53,7 +53,6 @@ You'll need [Cocoapods](http://cocoapods.org) for most of our dependencies.
 Download the source code and **don't forget** to pull down all of the submodules as well.
 
     $ git clone https://github.com/ChatSecure/ChatSecure-iOS.git
-    $ cd ChatSecure-iOS/
     $ git submodule update --init --recursive
     
 Now you'll need to build the dependencies. During this process we will automatically verify the integity of each package by checking its GPG signature. Install [GPGTools](https://gpgtools.org) and add the public signing keys for OpenSSL, GnuPG, libevent, and libotr. *(TODO make these links to the keys)*
