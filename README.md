@@ -158,3 +158,19 @@ Thank you to everyone who helped this project become a reality! This project is 
 	* [burhan teoman](https://www.transifex.net/accounts/profile/burhanteoman/) (Turkish)
 	* [shikibiomernok](https://www.transifex.net/accounts/profile/shikibiomernok/) (Hungarian)
 * Many many more!
+* 
+
+Choosing the best Free linux Operating  System
+
+Dabbling for the first time in Linux starts with choosing a Linux distribution. A typical “Linux” system is built up of software from many different open-source projects, including the Linux kernel. Linux distributions—or “distros”—are the projects that package all this software into an easily installable, usable operating system. 
+
+Trying a Linux distribution is extremely easy. You just need to copy it to a USB drive and reboot your computer. You don’t need to install anything or tamper with your current system at all. (If you have a Windows 8 computer, you may need to disable Secure Boot before you can boot a Linux system.)
+
+Points Which shoul be kept in Mind while choosing a Linux operating system
+Intended use
+Commercial support
+Hardware compatibility
+Software compatibility
+Community
+
+[ClearOS](https://www.clearos.com) is an operating system for your Server, Network, and Gateway systems. It is designed for homes, small to medium businesses, and distributed environments. ClearOS is commonly known as the Next Generation Small Business Server, while including indispensable Gateway and Networking functionality. It delivers a powerful IT solution with an elegant user interface that is completely web-based. Simply put.. ClearOS is the new way of delivering IT.
